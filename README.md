@@ -15,8 +15,6 @@
 
 - [Active Developer Discord Badge](link-to-project-1): Active Developers play a vital role in shaping the future of Discord, and this badge serves as a visible acknowledgment of their valuable contributions..
 
-- [Project 2](link-to-project-2): Brief description.
-- [Project 3](link-to-project-3): Brief description.
 
 ## Contact
 
